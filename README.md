@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hello there!
 
 - 🔭 I’m currently working on developing games with pygame and python.
 - 🌱 I’m currently learning Python, C++, C#!
