@@ -1,8 +1,4 @@
-@@ -0,0 +1,13 @@
 ### Hi there 👋
-
-<!--
-**Jibbyie/Jibbyie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on developing games with pygame and python.
 - 🌱 I’m currently learning Python, C++, C#
@@ -11,4 +7,3 @@
 - 💬 Ask me about pygame and my current projects!
 - 📫 How to reach me: Jibbyie@gmail.com
 - ⚡ Fun fact: I hate coding
--->
