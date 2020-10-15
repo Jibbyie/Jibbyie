@@ -10,4 +10,3 @@
 
 [![Jibby's github stats](https://github-readme-stats.vercel.app/api?username=Jibbyie&show_icons=true&theme=radical)](https://github.com/Jibbyie/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jibbyie&layout=compact&show_icons=true&theme=radical)](https://github.com/Jibbyie/github-readme-stats)
-[![Jibby's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jibbyie&show_icons=true&theme=radical)](https://github.com/Jibbyie/github-readme-stats)
