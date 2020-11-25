@@ -1,7 +1,7 @@
 ### Hello there!
 
-- 🔭 I’m currently working on developing games with pygame, python, unreal engine and C++.
-- 🌱 I’m currently learning C++ and C!
+- 🔭 I’m currently working on developing games with Pygame, Unity and Unreal Engine.
+- 🌱 I’m currently learning C++, C# and C!
 - 👯 I’m looking to collaborate on game development
 - 🤔 I’m looking for help with advanced database technologies 
 - 💬 Ask me about my current projects!
