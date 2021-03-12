@@ -1,7 +1,7 @@
 ### Hello there!
 
-- 🔭 I’m currently working on developing games with Pygame, Unity and Unreal Engine.
-- 🌱 I’m currently learning C++, C# and C!
+- 🔭 I’m currently working on developing games with Godot, Unity and Unreal Engine.
+- 🌱 I’m currently learning C++ and C#!
 - 👯 I’m looking to collaborate on game development.
 - 💬 Ask me about my current projects!
 - 📫 How to reach me: Jibbyie@gmail.com
