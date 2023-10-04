@@ -1,7 +1,5 @@
 ## Welcome to My GitHub Repository!
-My name is Jibril Abdulazeez but people call me Jibby!
-
-Greetings, I'm Jibril Abdulazeez, commonly known as Jibby, a recent Computer Science graduate hailing from Dublin, Ireland. My passion lies in crafting immersive experiences through game development and programming.
+I'm Jibril Abdulazeez, commonly known as Jibby, a recent Computer Science graduate hailing from Dublin, Ireland. My passion lies in crafting immersive experiences through game development and programming.
 
 I thrive on tinkering with technologies like Unity, Ren'py, and Arduino, striving to create captivating experiences for users.
 
