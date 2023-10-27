@@ -1,18 +1,14 @@
 ## Welcome to My GitHub Repository!
-I'm Jibril Abdulazeez, commonly known as Jibby, a recent Computer Science graduate hailing from Dublin, Ireland. My passion lies in crafting immersive experiences through game development and programming.
+Hello there! I'm Jibril Abdulazeez, also known as Jibby, a passionate Computer Science graduate from Dublin, Ireland, deeply enthralled by the realms of programming.
 
-I thrive on tinkering with technologies like Unity, Ren'py, and Arduino, striving to create captivating experiences for users.
+Currently, my primary focus revolves around mastering the art of Full Stack Development and honing my problem-solving skills through Data Structures and Algorithms, particularly on platforms like LeetCode.
 
-Current Endeavors:
-🚀 2D Game Engine Development (C, C++, OpenGL, Windows)
+🚀 Full Stack Development
+I'm immersed in the world of Full Stack Development, exploring the intricacies of both frontend and backend technologies. From crafting responsive user interfaces to building robust server-side applications, I am dedicated to creating seamless, user-friendly experiences.
 
-I'm actively engaged in building a sophisticated 2D game engine, focusing on honing my low-level programming skills. My emphasis lies on perfecting gameplay mechanics, graphics rendering, performance optimization, and ensuring a seamless gaming experience. Taking experience from Handmade Hero!
+💡 Data Structures and Algorithms (DSA)
+Delving into the complexities of algorithms and data structures, I am actively engaged in solving challenging problems on platforms like LeetCode. Constantly enhancing my problem-solving skills, I strive to unravel the beauty of efficient algorithms and their real-world applications.
 
-🕹️ Classic Retro Arcade Games Recreation (Unity, C#)
-
-I'm recreating beloved retro arcade games such as Space Invaders, Pong, Pacman, Donkey Kong, Asteroids, Frogger, Mario, and Breakout. My approach involves merging authentic replication with contemporary enhancements and gameplay mechanics, creating an enjoyable blend of nostalgia and innovation.
-
-Feel free to ask me about my ongoing projects or reach out via email at Jibbyie@gmail.com. Let's embark on this coding journey together! 🎮
-
+I'm always up for a coding challenge and eager to collaborate on exciting projects. Feel free to reach out via email at Jibbyie@gmail.com. Let's embark on this coding journey together! 🎮
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jibbyie&layout=compact&show_icons=true&theme=radical)](https://github.com/Jibbyie/github-readme-stats)
