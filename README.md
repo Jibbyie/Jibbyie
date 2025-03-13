@@ -20,7 +20,7 @@ Other: UX/UI, Web Development, Photoshop
 
 📚 What I'm Working On
 Building mini-game prototypes as part of my game dev portfolio
-A fully fledged Visual Novel release via Renpy @ [Rizztaurant]([https://github.com/Jibbyie/grappling-hook-prototype](https://github.com/Jibbyie/RizztaurantDemo))  
+A fully fledged Visual Novel release via Renpy [Rizztaurant](https://github.com/Jibbyie/RizztaurantDemo)  
 A fully fledged Steam Release via Unity 3D called Dolphin Simulator
 Uploading 1+ YouTube video per week while refining my editing workflow
 Improving problem-solving skills through Neetcode 150
