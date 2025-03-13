@@ -1,14 +1,29 @@
 ## Welcome to My GitHub Repository!
-Hello there! I'm Jibril Abdulazeez, also known as Jibby, a passionate Computer Science graduate from Dublin, Ireland, deeply enthralled by the realms of programming.
+Hello there! I'm Jibril Abdulazeez, also known as Jibby, a Creative Digital Media & UX student based in Dublin, Ireland. My focus is on game development, gameplay programming, and content creation.
 
-Currently, my primary focus revolves around mastering the art of Full Stack Development and honing my problem-solving skills through Data Structures and Algorithms, particularly on platforms like LeetCode.
+🎮 Gameplay Programming & Game Development
+I'm currently specializing in 3D game development using Unity & C#, aiming to master gameplay programming while developing a well-rounded skill set in game design, level design, writing, and character design. My goal is to become a T-shaped developer, with deep expertise in gameplay programming and broad knowledge in other creative disciplines.
 
-🚀 Full Stack Development
-I'm immersed in the world of Full Stack Development, exploring the intricacies of both frontend and backend technologies. From crafting responsive user interfaces to building robust server-side applications, I am dedicated to creating seamless, user-friendly experiences.
+🎬 Content Creation & Video Editing
+I create highly edited, fast-paced YouTube videos, drawing inspiration from creators like Degenerocity. My content covers hypotheticals, gaming, and tech-related topics, repurposing clips for TikTok & YouTube Shorts.
 
-💡 Data Structures and Algorithms (DSA)
-Delving into the complexities of algorithms and data structures, I am actively engaged in solving challenging problems on platforms like LeetCode. Constantly enhancing my problem-solving skills, I strive to unravel the beauty of efficient algorithms and their real-world applications.
+I am continuously improving my editing skills in DaVinci Resolve, optimizing my workflow to streamline static zooms, overlays, and subtitles.
 
-I'm always up for a coding challenge and eager to collaborate on exciting projects. Feel free to reach out via email at Jibbyie@gmail.com. Let's embark on this coding journey together! 🎮
+💻 Software & UI/UX Development
+Beyond game development, I have experience in app development, UI/UX design, and web development. I have worked on responsive web applications, interactive user interfaces, and intuitive app designs, ensuring seamless digital experiences through strong design principles and technical execution.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jibbyie&layout=compact&show_icons=true&theme=radical)](https://github.com/Jibbyie/github-readme-stats)
+🔧 Tech & Skills
+Languages: C#, Python, C++, JS, ReactJS
+Game Engine: Unity (3D Focus)
+Video Editing: DaVinci Resolve
+Other: UX/UI, Web Development, Photoshop
+
+📚 What I'm Working On
+Building mini-game prototypes as part of my game dev portfolio
+A fully fledged Visual Novel release via Renpy @ [Rizztaurant]([https://github.com/Jibbyie/grappling-hook-prototype](https://github.com/Jibbyie/RizztaurantDemo))  
+A fully fledged Steam Release via Unity 3D called Dolphin Simulator
+Uploading 1+ YouTube video per week while refining my editing workflow
+Improving problem-solving skills through Neetcode 150
+Learning Russian (regular practice)
+
+📫 Feel free to reach out via email at Jibbyie@gmail.com
