@@ -7,6 +7,8 @@ Building mini-games to polish gameplay mechanics
 Prototyping unique gameplay systems
 
 ### My Projects
+For a visual overview with images, GIFs, and detailed breakdowns, check out my portfolio: [jibby.dev](https://jibby.dev)
+
 [Check out my itch!](https://jibbyie.itch.io/).
 
 
