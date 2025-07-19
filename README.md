@@ -12,4 +12,4 @@ For a visual overview with images, GIFs, and detailed breakdowns, check out my p
 
 [Check out my itch!](https://jibbyie.itch.io/).
 
-
+Contact me for game jams too!!!
