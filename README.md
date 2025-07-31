@@ -3,7 +3,6 @@ Hey! I’m Jibril Abdulazeez, also known as Jibby — a Creative Digital Media &
 I specialise in 2D game development using Unity and C#, with a strong focus on gameplay programming.
 
 ### Current Projects
-[20 Games Challenge](https://github.com/Jibbyie/20GamesChallenge)
 [It Ain't That Deep - 2.5D, First Person Arcade Shooter](https://jibby.dev/projects/ItAintThatDeep.html)
 
 ### My Projects
