@@ -1,7 +1,5 @@
 ## Welcome to My GitHub Repository!
-Hey! I’m Jibril Abdulazeez, also known as Jibby — a Creative Digital Media & UX student based in Dublin, Ireland. I’m passionate about game development and gameplay programming.
-I specialise in 2D game development using Unity and C#, with a strong focus on gameplay programming.
-
+Hey! I’m Jibril Abdulazeez!
 ### Current Projects
 [It Ain't That Deep - 2.5D, First Person Arcade Shooter](https://jibby.dev/projects/ItAintThatDeep.html)
 
